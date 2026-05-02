@@ -1,0 +1,10 @@
+[
+    {
+        "username": "john",
+        "email": "john123@gmail.com",
+        "password_hash": "3dfcff3ac566b9ca5b7748dee92612564b0c2bf1898dc1bcd72cb04d1f5ea86d",
+        "salt": "4271b29ca0493ea21d8ac4d81c3162ee",
+        "role": "Admin",
+        "created_at": "2026-05-02 06:30:18"
+    }
+]
